@@ -29,7 +29,6 @@ plugins:
       lang:
         - en
         - ja
-        - th 
 
 markdown_extensions:
   - toc:
