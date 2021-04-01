@@ -70,17 +70,17 @@ theme:
         name: Switch to light mode.
 
 extra:
-  alternate:
+  # alternate:
 
-    # Switch to English
-    - name: English
-      link: /
-      lang: en
+  #   # Switch to English
+  #   - name: English
+  #     link: /
+  #     lang: en
 
-    # Switch to Thai
-    - name: Thai
-      link: /th/
-      lang: th
+  #   # Switch to Thai
+  #   - name: Thai
+  #     link: /th/
+  #     lang: th
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
