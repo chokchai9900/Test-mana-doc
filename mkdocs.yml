@@ -28,7 +28,8 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - en
-        - th
+        - ja
+        - th 
 
 markdown_extensions:
   - toc:
