@@ -24,12 +24,10 @@ nav:
         - FAQs: FAQ/faq.md
 
 plugins:
-  - search:
-      separator: '[\s\-\.]+'
-      lang:
-        - en
-        - ja
-        - th
+  - search
+  - localsearch 
+
+use_directory_urls: false 
 
 markdown_extensions:
   - toc:
