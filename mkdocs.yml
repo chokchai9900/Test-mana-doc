@@ -24,10 +24,7 @@ nav:
         - FAQs: FAQ/faq.md
 
 plugins:
-  - search:
-      lang:
-        - en
-        - th
+  - search
 
 use_directory_urls: false 
 
